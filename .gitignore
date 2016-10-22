@@ -10,6 +10,9 @@
 *.iws
 .idea
 
+# Jira
+atlassian-ide-plugin.xml
+
 # Maven
 target/
 
